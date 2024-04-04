@@ -1,7 +1,9 @@
 # Ecommerce-Sales-Analysis
 The dataset contains data of all the sales for various ecommerce platforms for the year 2023. The objective of this analysis is to comprehend and analyse sales data from diverse e-commerce platforms catering to both men's and women's fashion products of the year 2023. By scrutinizing trends, patterns, and performance across different platforms and product categories, the aim is to derive actionable insights to optimize sales strategies and maximize revenue for year 2024.
+
 About the Dataset:
 The dataset encompasses orders placed by customers across various e-commerce platforms, including Myntra, Ajio, Amazon, Flipkart, Nykaa, Meesho and others. It encompasses a wide range of fashion items, covering categories such as jeans, footwear, ethnic dresses, kurtas, sarees, sets, tops, and western dresses, catering to both men and women.
+
 Recommended Analysis:
 
 1.	Provide the total sales revenue generated in the year 2023?
